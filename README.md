@@ -1,0 +1,1 @@
+This repository contains the jupyter notebooks for working with LLM's locally, Generating SQL query from the user asked question, Improving the prompt for RAG Q&A generation model to restrict the model output content and also working with mistral models api's for generating content.
